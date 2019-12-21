@@ -1,0 +1,22 @@
+{
+  "name": "apachejs",
+  "version": "0.0.1",
+  "description": "web-service",
+  "main": "open.js",
+  "scripts": {
+    "test": "node open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "Zollyer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "shelljs": "^0.8.3"
+  }
+}
